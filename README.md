@@ -1,5 +1,7 @@
 # vox2schematic
 Converts MagicaVoxel's .vox and .png volume slices files to .schematic files
+
+
 (Sowiasty) - Well I added some new features but some of the .vox files dont work because of the old nonupdated library dependency
 ## Required libraries
 - pillow
